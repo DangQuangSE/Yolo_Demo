@@ -223,3 +223,7 @@ weights/
 # YOLO logs and results
 results/
 wandb/
+
+#outputs after detect in website
+output/
+uploads/
